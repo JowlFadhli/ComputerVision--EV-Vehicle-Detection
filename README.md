@@ -1,9 +1,9 @@
-# Challenge 2: Vehicle Type Identification
+# Computer Vision: Vehicle Type Identification
 
 Using Torch to perform our machine learning model, Deep convolutional neural network (DCNN) is used to recognize whether a car is an EV/non-EV when given an image. 
 
 ## Running the code
-To test the finished code with the checkpoint, kindly run Challenge_2_test.ipynb whereas to see the full code for the whole model, open Challenge_2.ipynb for details. 
+To test the finished code with the checkpoint, kindly run EV_Detect_test.ipynb whereas to see the full code for the whole model, open Challenge_2.ipynb for details. 
 From the code, these two images can be detected whether is an EV/non EV car.
 
 BYD Car detected as EV car
